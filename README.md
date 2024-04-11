@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jubril Abdulsalam
 - 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything that will challenge & improve my web development skills
 
 
